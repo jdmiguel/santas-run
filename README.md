@@ -2,7 +2,7 @@
 
 2D Game developed with Phaser 3 and Typescript
 
-![Screenshot](./public/game.jpg 'Santa's run')
+![Screenshot](./public/assets/game.jpg 'Santa's run')
 
 ### TECHNOLOGIES
 
